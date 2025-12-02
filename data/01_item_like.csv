@@ -1,0 +1,381 @@
+user_id,item_id,like,category,item
+1,1,2.0,Colours,PURPLE
+1,2,4.0,Colours,BLUE
+1,3,4.0,Colours,GREEN
+1,4,3.0,Colours,RED
+1,5,2.0,Colours,ORANGE
+1,6,2.0,Abstract concepts,RISK
+1,7,4.0,Abstract concepts,HOPE
+1,8,4.0,Abstract concepts,SAFETY
+1,9,4.0,Abstract concepts,VITALITY
+1,10,4.0,Abstract concepts,POWER
+1,11,3.0,Subjects,LITERATURE
+1,12,2.0,Subjects,PHYSICS
+1,13,3.0,Subjects,MUSIC
+1,14,1.0,Subjects,HISTORY
+1,15,1.0,Subjects,GEOGRAPHY
+1,16,2.0,Places,SEA
+1,17,1.0,Places,DESERT
+1,18,2.0,Places,CITY
+1,19,2.0,Places,MOUNTAIN
+1,20,3.0,Places,VILLAGE
+2,1,2.0,Colours,PURPLE
+2,2,4.0,Colours,BLUE
+2,3,3.0,Colours,GREEN
+2,4,2.0,Colours,RED
+2,5,2.0,Colours,ORANGE
+2,6,2.0,Abstract concepts,RISK
+2,7,3.0,Abstract concepts,HOPE
+2,8,4.0,Abstract concepts,SAFETY
+2,9,4.0,Abstract concepts,VITALITY
+2,10,4.0,Abstract concepts,POWER
+2,11,3.0,Subjects,LITERATURE
+2,12,1.0,Subjects,PHYSICS
+2,13,2.0,Subjects,MUSIC
+2,14,3.0,Subjects,HISTORY
+2,15,2.0,Subjects,GEOGRAPHY
+2,16,4.0,Places,SEA
+2,17,2.0,Places,DESERT
+2,18,3.0,Places,CITY
+2,19,3.0,Places,MOUNTAIN
+2,20,2.0,Places,VILLAGE
+3,1,2.0,Colours,PURPLE
+3,2,4.0,Colours,BLUE
+3,3,3.0,Colours,GREEN
+3,4,2.0,Colours,RED
+3,5,2.0,Colours,ORANGE
+3,6,2.0,Abstract concepts,RISK
+3,7,4.0,Abstract concepts,HOPE
+3,8,4.0,Abstract concepts,SAFETY
+3,9,4.0,Abstract concepts,VITALITY
+3,10,3.0,Abstract concepts,POWER
+3,11,2.0,Subjects,LITERATURE
+3,12,1.0,Subjects,PHYSICS
+3,13,4.0,Subjects,MUSIC
+3,14,3.0,Subjects,HISTORY
+3,15,1.0,Subjects,GEOGRAPHY
+3,16,4.0,Places,SEA
+3,17,2.0,Places,DESERT
+3,18,4.0,Places,CITY
+3,19,3.0,Places,MOUNTAIN
+3,20,2.0,Places,VILLAGE
+4,1,3.0,Colours,PURPLE
+4,2,3.0,Colours,BLUE
+4,3,3.0,Colours,GREEN
+4,4,3.0,Colours,RED
+4,5,3.0,Colours,ORANGE
+4,6,3.0,Abstract concepts,RISK
+4,7,3.0,Abstract concepts,HOPE
+4,8,3.0,Abstract concepts,SAFETY
+4,9,3.0,Abstract concepts,VITALITY
+4,10,3.0,Abstract concepts,POWER
+4,11,3.0,Subjects,LITERATURE
+4,12,3.0,Subjects,PHYSICS
+4,13,3.0,Subjects,MUSIC
+4,14,3.0,Subjects,HISTORY
+4,15,3.0,Subjects,GEOGRAPHY
+4,16,3.0,Places,SEA
+4,17,3.0,Places,DESERT
+4,18,3.0,Places,CITY
+4,19,3.0,Places,MOUNTAIN
+4,20,3.0,Places,VILLAGE
+5,1,3.0,Colours,PURPLE
+5,2,3.0,Colours,BLUE
+5,3,1.0,Colours,GREEN
+5,4,2.0,Colours,RED
+5,5,3.0,Colours,ORANGE
+5,6,3.0,Abstract concepts,RISK
+5,7,4.0,Abstract concepts,HOPE
+5,8,4.0,Abstract concepts,SAFETY
+5,9,2.0,Abstract concepts,VITALITY
+5,10,4.0,Abstract concepts,POWER
+5,11,3.0,Subjects,LITERATURE
+5,12,1.0,Subjects,PHYSICS
+5,13,4.0,Subjects,MUSIC
+5,14,2.0,Subjects,HISTORY
+5,15,4.0,Subjects,GEOGRAPHY
+5,16,4.0,Places,SEA
+5,17,2.0,Places,DESERT
+5,18,4.0,Places,CITY
+5,19,3.0,Places,MOUNTAIN
+5,20,2.0,Places,VILLAGE
+6,1,3.0,Colours,PURPLE
+6,2,4.0,Colours,BLUE
+6,3,3.0,Colours,GREEN
+6,4,3.0,Colours,RED
+6,5,3.0,Colours,ORANGE
+6,6,3.0,Abstract concepts,RISK
+6,7,4.0,Abstract concepts,HOPE
+6,8,4.0,Abstract concepts,SAFETY
+6,9,4.0,Abstract concepts,VITALITY
+6,10,4.0,Abstract concepts,POWER
+6,11,3.0,Subjects,LITERATURE
+6,12,3.0,Subjects,PHYSICS
+6,13,4.0,Subjects,MUSIC
+6,14,3.0,Subjects,HISTORY
+6,15,4.0,Subjects,GEOGRAPHY
+6,16,4.0,Places,SEA
+6,17,2.0,Places,DESERT
+6,18,3.0,Places,CITY
+6,19,3.0,Places,MOUNTAIN
+6,20,3.0,Places,VILLAGE
+7,1,3.0,Colours,PURPLE
+7,2,4.0,Colours,BLUE
+7,3,3.0,Colours,GREEN
+7,4,2.0,Colours,RED
+7,5,2.0,Colours,ORANGE
+7,6,1.0,Abstract concepts,RISK
+7,7,3.0,Abstract concepts,HOPE
+7,8,4.0,Abstract concepts,SAFETY
+7,9,3.0,Abstract concepts,VITALITY
+7,10,3.0,Abstract concepts,POWER
+7,11,2.0,Subjects,LITERATURE
+7,12,3.0,Subjects,PHYSICS
+7,13,4.0,Subjects,MUSIC
+7,14,3.0,Subjects,HISTORY
+7,15,3.0,Subjects,GEOGRAPHY
+7,16,3.0,Places,SEA
+7,17,1.0,Places,DESERT
+7,18,2.0,Places,CITY
+7,19,2.0,Places,MOUNTAIN
+7,20,2.0,Places,VILLAGE
+8,1,2.0,Colours,PURPLE
+8,2,4.0,Colours,BLUE
+8,3,3.0,Colours,GREEN
+8,4,1.0,Colours,RED
+8,5,1.0,Colours,ORANGE
+8,6,2.0,Abstract concepts,RISK
+8,7,4.0,Abstract concepts,HOPE
+8,8,4.0,Abstract concepts,SAFETY
+8,9,4.0,Abstract concepts,VITALITY
+8,10,3.0,Abstract concepts,POWER
+8,11,3.0,Subjects,LITERATURE
+8,12,3.0,Subjects,PHYSICS
+8,13,3.0,Subjects,MUSIC
+8,14,3.0,Subjects,HISTORY
+8,15,3.0,Subjects,GEOGRAPHY
+8,16,4.0,Places,SEA
+8,17,1.0,Places,DESERT
+8,18,3.0,Places,CITY
+8,19,1.0,Places,MOUNTAIN
+8,20,2.0,Places,VILLAGE
+9,1,3.0,Colours,PURPLE
+9,2,4.0,Colours,BLUE
+9,3,4.0,Colours,GREEN
+9,4,2.0,Colours,RED
+9,5,2.0,Colours,ORANGE
+9,6,1.0,Abstract concepts,RISK
+9,7,3.0,Abstract concepts,HOPE
+9,8,4.0,Abstract concepts,SAFETY
+9,9,3.0,Abstract concepts,VITALITY
+9,10,3.0,Abstract concepts,POWER
+9,11,3.0,Subjects,LITERATURE
+9,12,1.0,Subjects,PHYSICS
+9,13,4.0,Subjects,MUSIC
+9,14,3.0,Subjects,HISTORY
+9,15,3.0,Subjects,GEOGRAPHY
+9,16,3.0,Places,SEA
+9,17,2.0,Places,DESERT
+9,18,2.0,Places,CITY
+9,19,3.0,Places,MOUNTAIN
+9,20,2.0,Places,VILLAGE
+10,1,4.0,Colours,PURPLE
+10,2,4.0,Colours,BLUE
+10,3,3.0,Colours,GREEN
+10,4,4.0,Colours,RED
+10,5,4.0,Colours,ORANGE
+10,6,2.0,Abstract concepts,RISK
+10,7,4.0,Abstract concepts,HOPE
+10,8,3.0,Abstract concepts,SAFETY
+10,9,3.0,Abstract concepts,VITALITY
+10,10,1.0,Abstract concepts,POWER
+10,11,4.0,Subjects,LITERATURE
+10,12,2.0,Subjects,PHYSICS
+10,13,4.0,Subjects,MUSIC
+10,14,4.0,Subjects,HISTORY
+10,15,3.0,Subjects,GEOGRAPHY
+10,16,4.0,Places,SEA
+10,17,3.0,Places,DESERT
+10,18,2.0,Places,CITY
+10,19,4.0,Places,MOUNTAIN
+10,20,4.0,Places,VILLAGE
+11,1,3.0,Colours,PURPLE
+11,2,4.0,Colours,BLUE
+11,3,1.0,Colours,GREEN
+11,4,1.0,Colours,RED
+11,5,1.0,Colours,ORANGE
+11,6,2.0,Abstract concepts,RISK
+11,7,3.0,Abstract concepts,HOPE
+11,8,4.0,Abstract concepts,SAFETY
+11,9,3.0,Abstract concepts,VITALITY
+11,10,4.0,Abstract concepts,POWER
+11,11,4.0,Subjects,LITERATURE
+11,12,3.0,Subjects,PHYSICS
+11,13,4.0,Subjects,MUSIC
+11,14,2.0,Subjects,HISTORY
+11,15,3.0,Subjects,GEOGRAPHY
+11,16,4.0,Places,SEA
+11,17,3.0,Places,DESERT
+11,18,3.0,Places,CITY
+11,19,3.0,Places,MOUNTAIN
+11,20,2.0,Places,VILLAGE
+12,1,2.0,Colours,PURPLE
+12,2,3.0,Colours,BLUE
+12,3,1.0,Colours,GREEN
+12,4,4.0,Colours,RED
+12,5,2.0,Colours,ORANGE
+12,6,3.0,Abstract concepts,RISK
+12,7,4.0,Abstract concepts,HOPE
+12,8,2.0,Abstract concepts,SAFETY
+12,9,,Abstract concepts,VITALITY
+12,10,4.0,Abstract concepts,POWER
+12,11,2.0,Subjects,LITERATURE
+12,12,3.0,Subjects,PHYSICS
+12,13,4.0,Subjects,MUSIC
+12,14,1.0,Subjects,HISTORY
+12,15,1.0,Subjects,GEOGRAPHY
+12,16,3.0,Places,SEA
+12,17,4.0,Places,DESERT
+12,18,4.0,Places,CITY
+12,19,2.0,Places,MOUNTAIN
+12,20,2.0,Places,VILLAGE
+13,1,2.0,Colours,PURPLE
+13,2,3.0,Colours,BLUE
+13,3,4.0,Colours,GREEN
+13,4,2.0,Colours,RED
+13,5,3.0,Colours,ORANGE
+13,6,1.0,Abstract concepts,RISK
+13,7,4.0,Abstract concepts,HOPE
+13,8,4.0,Abstract concepts,SAFETY
+13,9,4.0,Abstract concepts,VITALITY
+13,10,3.0,Abstract concepts,POWER
+13,11,4.0,Subjects,LITERATURE
+13,12,3.0,Subjects,PHYSICS
+13,13,4.0,Subjects,MUSIC
+13,14,3.0,Subjects,HISTORY
+13,15,2.0,Subjects,GEOGRAPHY
+13,16,4.0,Places,SEA
+13,17,2.0,Places,DESERT
+13,18,2.0,Places,CITY
+13,19,3.0,Places,MOUNTAIN
+13,20,2.0,Places,VILLAGE
+14,1,2.0,Colours,PURPLE
+14,2,4.0,Colours,BLUE
+14,3,3.0,Colours,GREEN
+14,4,1.0,Colours,RED
+14,5,3.0,Colours,ORANGE
+14,6,1.0,Abstract concepts,RISK
+14,7,4.0,Abstract concepts,HOPE
+14,8,4.0,Abstract concepts,SAFETY
+14,9,2.0,Abstract concepts,VITALITY
+14,10,4.0,Abstract concepts,POWER
+14,11,3.0,Subjects,LITERATURE
+14,12,1.0,Subjects,PHYSICS
+14,13,4.0,Subjects,MUSIC
+14,14,1.0,Subjects,HISTORY
+14,15,1.0,Subjects,GEOGRAPHY
+14,16,2.0,Places,SEA
+14,17,1.0,Places,DESERT
+14,18,3.0,Places,CITY
+14,19,3.0,Places,MOUNTAIN
+14,20,3.0,Places,VILLAGE
+15,1,3.0,Colours,PURPLE
+15,2,4.0,Colours,BLUE
+15,3,4.0,Colours,GREEN
+15,4,4.0,Colours,RED
+15,5,4.0,Colours,ORANGE
+15,6,1.0,Abstract concepts,RISK
+15,7,4.0,Abstract concepts,HOPE
+15,8,4.0,Abstract concepts,SAFETY
+15,9,4.0,Abstract concepts,VITALITY
+15,10,4.0,Abstract concepts,POWER
+15,11,3.0,Subjects,LITERATURE
+15,12,4.0,Subjects,PHYSICS
+15,13,4.0,Subjects,MUSIC
+15,14,4.0,Subjects,HISTORY
+15,15,3.0,Subjects,GEOGRAPHY
+15,16,4.0,Places,SEA
+15,17,1.0,Places,DESERT
+15,18,3.0,Places,CITY
+15,19,4.0,Places,MOUNTAIN
+15,20,2.0,Places,VILLAGE
+16,1,2.0,Colours,PURPLE
+16,2,4.0,Colours,BLUE
+16,3,1.0,Colours,GREEN
+16,4,3.0,Colours,RED
+16,5,2.0,Colours,ORANGE
+16,6,3.0,Abstract concepts,RISK
+16,7,4.0,Abstract concepts,HOPE
+16,8,4.0,Abstract concepts,SAFETY
+16,9,3.0,Abstract concepts,VITALITY
+16,10,3.0,Abstract concepts,POWER
+16,11,3.0,Subjects,LITERATURE
+16,12,3.0,Subjects,PHYSICS
+16,13,4.0,Subjects,MUSIC
+16,14,3.0,Subjects,HISTORY
+16,15,3.0,Subjects,GEOGRAPHY
+16,16,4.0,Places,SEA
+16,17,3.0,Places,DESERT
+16,18,4.0,Places,CITY
+16,19,4.0,Places,MOUNTAIN
+16,20,3.0,Places,VILLAGE
+17,1,2.0,Colours,PURPLE
+17,2,3.0,Colours,BLUE
+17,3,2.0,Colours,GREEN
+17,4,3.0,Colours,RED
+17,5,4.0,Colours,ORANGE
+17,6,2.0,Abstract concepts,RISK
+17,7,3.0,Abstract concepts,HOPE
+17,8,3.0,Abstract concepts,SAFETY
+17,9,2.0,Abstract concepts,VITALITY
+17,10,4.0,Abstract concepts,POWER
+17,11,2.0,Subjects,LITERATURE
+17,12,2.0,Subjects,PHYSICS
+17,13,4.0,Subjects,MUSIC
+17,14,2.0,Subjects,HISTORY
+17,15,2.0,Subjects,GEOGRAPHY
+17,16,3.0,Places,SEA
+17,17,2.0,Places,DESERT
+17,18,4.0,Places,CITY
+17,19,4.0,Places,MOUNTAIN
+17,20,4.0,Places,VILLAGE
+18,1,3.0,Colours,PURPLE
+18,2,4.0,Colours,BLUE
+18,3,3.0,Colours,GREEN
+18,4,2.0,Colours,RED
+18,5,2.0,Colours,ORANGE
+18,6,1.0,Abstract concepts,RISK
+18,7,4.0,Abstract concepts,HOPE
+18,8,4.0,Abstract concepts,SAFETY
+18,9,3.0,Abstract concepts,VITALITY
+18,10,4.0,Abstract concepts,POWER
+18,11,3.0,Subjects,LITERATURE
+18,12,2.0,Subjects,PHYSICS
+18,13,4.0,Subjects,MUSIC
+18,14,4.0,Subjects,HISTORY
+18,15,2.0,Subjects,GEOGRAPHY
+18,16,4.0,Places,SEA
+18,17,3.0,Places,DESERT
+18,18,3.0,Places,CITY
+18,19,2.0,Places,MOUNTAIN
+18,20,2.0,Places,VILLAGE
+19,1,3.0,Colours,PURPLE
+19,2,4.0,Colours,BLUE
+19,3,3.0,Colours,GREEN
+19,4,2.0,Colours,RED
+19,5,2.0,Colours,ORANGE
+19,6,2.0,Abstract concepts,RISK
+19,7,3.0,Abstract concepts,HOPE
+19,8,4.0,Abstract concepts,SAFETY
+19,9,3.0,Abstract concepts,VITALITY
+19,10,3.0,Abstract concepts,POWER
+19,11,2.0,Subjects,LITERATURE
+19,12,4.0,Subjects,PHYSICS
+19,13,4.0,Subjects,MUSIC
+19,14,3.0,Subjects,HISTORY
+19,15,2.0,Subjects,GEOGRAPHY
+19,16,2.0,Places,SEA
+19,17,1.0,Places,DESERT
+19,18,3.0,Places,CITY
+19,19,3.0,Places,MOUNTAIN
+19,20,3.0,Places,VILLAGE

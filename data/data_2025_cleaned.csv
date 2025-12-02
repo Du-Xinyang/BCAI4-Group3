@@ -1,0 +1,1141 @@
+user_id,question_id,score,answer,category
+1,1,1.0,2.0,Colours
+1,2,1.0,4.0,Colours
+1,3,1.0,4.0,Colours
+1,4,1.0,3.0,Colours
+1,5,1.0,2.0,Colours
+1,6,1.0,2.0,Abstract concepts
+1,7,1.0,4.0,Abstract concepts
+1,8,1.0,4.0,Abstract concepts
+1,9,1.0,4.0,Abstract concepts
+1,10,1.0,4.0,Abstract concepts
+1,11,1.0,3.0,Subjects
+1,12,1.0,2.0,Subjects
+1,13,1.0,3.0,Subjects
+1,14,1.0,1.0,Subjects
+1,15,1.0,1.0,Subjects
+1,16,1.0,2.0,Places
+1,17,1.0,1.0,Places
+1,18,1.0,2.0,Places
+1,19,1.0,2.0,Places
+1,20,1.0,3.0,Places
+1,21,3.0,7.0,Abstract concepts
+1,22,4.0,3.0,Colours
+1,23,2.0,2.0,Colours
+1,24,4.0,16.0,Places
+1,25,2.0,10.0,Abstract concepts
+1,26,3.0,9.0,Abstract concepts
+1,27,4.0,16.0,Places
+1,28,4.0,2.0,Colours
+1,29,3.0,20.0,Places
+1,30,3.0,3.0,Colours
+1,31,4.0,16.0,Places
+1,32,4.0,2.0,Colours
+1,33,4.0,20.0,Places
+1,34,3.0,9.0,Abstract concepts
+1,35,4.0,3.0,Colours
+1,36,3.0,17.0,Places
+1,37,3.0,19.0,Places
+1,38,1.0,2.0,Colours
+1,39,2.0,16.0,Places
+1,40,3.0,3.0,Colours
+1,41,4.0,18.0,Places
+1,42,4.0,3.0,Colours
+1,43,3.0,20.0,Places
+1,44,4.0,16.0,Places
+1,45,2.0,17.0,Places
+1,46,3.0,9.0,Abstract concepts
+1,47,4.0,16.0,Places
+1,48,4.0,2.0,Colours
+1,49,3.0,5.0,Colours
+1,50,3.0,3.0,Colours
+1,51,4.0,16.0,Places
+1,52,1.0,18.0,Places
+1,53,4.0,20.0,Places
+1,54,1.0,5.0,Colours
+1,55,4.0,3.0,Colours
+1,56,3.0,17.0,Places
+1,57,3.0,19.0,Places
+1,58,1.0,2.0,Colours
+1,59,2.0,16.0,Places
+1,60,3.0,3.0,Colours
+2,1,1.0,2.0,Colours
+2,2,1.0,4.0,Colours
+2,3,1.0,3.0,Colours
+2,4,1.0,2.0,Colours
+2,5,1.0,2.0,Colours
+2,6,1.0,2.0,Abstract concepts
+2,7,1.0,3.0,Abstract concepts
+2,8,1.0,4.0,Abstract concepts
+2,9,1.0,4.0,Abstract concepts
+2,10,1.0,4.0,Abstract concepts
+2,11,1.0,3.0,Subjects
+2,12,1.0,1.0,Subjects
+2,13,1.0,2.0,Subjects
+2,14,1.0,3.0,Subjects
+2,15,1.0,2.0,Subjects
+2,16,1.0,4.0,Places
+2,17,1.0,2.0,Places
+2,18,1.0,3.0,Places
+2,19,1.0,3.0,Places
+2,20,1.0,2.0,Places
+2,21,3.0,7.0,Abstract concepts
+2,22,2.0,19.0,Places
+2,23,3.0,8.0,Abstract concepts
+2,24,4.0,16.0,Places
+2,25,2.0,10.0,Abstract concepts
+2,26,3.0,19.0,Places
+2,27,4.0,16.0,Places
+2,28,2.0,7.0,Abstract concepts
+2,29,3.0,5.0,Colours
+2,30,3.0,3.0,Colours
+2,31,4.0,16.0,Places
+2,32,4.0,2.0,Colours
+2,33,2.0,10.0,Abstract concepts
+2,34,4.0,17.0,Places
+2,35,2.0,8.0,Abstract concepts
+2,36,2.0,4.0,Colours
+2,37,3.0,19.0,Places
+2,38,2.0,15.0,Subjects
+2,39,2.0,16.0,Places
+2,40,3.0,3.0,Colours
+2,41,4.0,18.0,Places
+2,42,4.0,3.0,Colours
+2,43,3.0,20.0,Places
+2,44,1.0,4.0,Colours
+2,45,4.0,5.0,Colours
+2,46,3.0,19.0,Places
+2,47,4.0,16.0,Places
+2,48,4.0,2.0,Colours
+2,49,3.0,20.0,Places
+2,50,3.0,18.0,Places
+2,51,4.0,16.0,Places
+2,52,4.0,2.0,Colours
+2,53,4.0,20.0,Places
+2,54,1.0,5.0,Colours
+2,55,2.0,19.0,Places
+2,56,3.0,17.0,Places
+2,57,3.0,19.0,Places
+2,58,1.0,2.0,Colours
+2,59,3.0,5.0,Colours
+2,60,,,
+3,1,1.0,2.0,Colours
+3,2,1.0,4.0,Colours
+3,3,1.0,3.0,Colours
+3,4,1.0,2.0,Colours
+3,5,1.0,2.0,Colours
+3,6,1.0,2.0,Abstract concepts
+3,7,1.0,4.0,Abstract concepts
+3,8,1.0,4.0,Abstract concepts
+3,9,1.0,4.0,Abstract concepts
+3,10,1.0,3.0,Abstract concepts
+3,11,1.0,2.0,Subjects
+3,12,1.0,1.0,Subjects
+3,13,1.0,4.0,Subjects
+3,14,1.0,3.0,Subjects
+3,15,1.0,1.0,Subjects
+3,16,1.0,4.0,Places
+3,17,1.0,2.0,Places
+3,18,1.0,4.0,Places
+3,19,1.0,3.0,Places
+3,20,1.0,2.0,Places
+3,21,3.0,7.0,Abstract concepts
+3,22,2.0,9.0,Abstract concepts
+3,23,3.0,8.0,Abstract concepts
+3,24,4.0,16.0,Places
+3,25,2.0,13.0,Subjects
+3,26,3.0,9.0,Abstract concepts
+3,27,4.0,16.0,Places
+3,28,2.0,7.0,Abstract concepts
+3,29,3.0,5.0,Colours
+3,30,3.0,18.0,Places
+3,31,4.0,16.0,Places
+3,32,4.0,2.0,Colours
+3,33,2.0,13.0,Subjects
+3,34,1.0,5.0,Colours
+3,35,2.0,19.0,Places
+3,36,3.0,17.0,Places
+3,37,3.0,19.0,Places
+3,38,1.0,2.0,Colours
+3,39,2.0,16.0,Places
+3,40,2.0,9.0,Abstract concepts
+3,41,4.0,18.0,Places
+3,42,4.0,3.0,Colours
+3,43,3.0,20.0,Places
+3,44,4.0,16.0,Places
+3,45,4.0,5.0,Colours
+3,46,3.0,19.0,Places
+3,47,4.0,16.0,Places
+3,48,2.0,7.0,Abstract concepts
+3,49,3.0,5.0,Colours
+3,50,3.0,3.0,Colours
+3,51,4.0,16.0,Places
+3,52,3.0,6.0,Abstract concepts
+3,53,4.0,20.0,Places
+3,54,1.0,5.0,Colours
+3,55,4.0,3.0,Colours
+3,56,3.0,17.0,Places
+3,57,3.0,19.0,Places
+3,58,1.0,2.0,Colours
+3,59,2.0,16.0,Places
+3,60,3.0,3.0,Colours
+4,1,1.0,3.0,Colours
+4,2,1.0,3.0,Colours
+4,3,1.0,3.0,Colours
+4,4,1.0,3.0,Colours
+4,5,1.0,3.0,Colours
+4,6,1.0,3.0,Abstract concepts
+4,7,1.0,3.0,Abstract concepts
+4,8,1.0,3.0,Abstract concepts
+4,9,1.0,3.0,Abstract concepts
+4,10,1.0,3.0,Abstract concepts
+4,11,1.0,3.0,Subjects
+4,12,1.0,3.0,Subjects
+4,13,1.0,3.0,Subjects
+4,14,1.0,3.0,Subjects
+4,15,1.0,3.0,Subjects
+4,16,1.0,3.0,Places
+4,17,1.0,3.0,Places
+4,18,1.0,3.0,Places
+4,19,1.0,3.0,Places
+4,20,1.0,3.0,Places
+4,21,2.0,14.0,Subjects
+4,22,4.0,3.0,Colours
+4,23,2.0,12.0,Subjects
+4,24,1.0,4.0,Colours
+4,25,2.0,10.0,Abstract concepts
+4,26,3.0,19.0,Places
+4,27,4.0,16.0,Places
+4,28,2.0,7.0,Abstract concepts
+4,29,3.0,5.0,Colours
+4,30,3.0,18.0,Places
+4,31,4.0,16.0,Places
+4,32,1.0,18.0,Places
+4,33,4.0,20.0,Places
+4,34,3.0,9.0,Abstract concepts
+4,35,4.0,3.0,Colours
+4,36,3.0,10.0,Abstract concepts
+4,37,3.0,19.0,Places
+4,38,3.0,6.0,Abstract concepts
+4,39,3.0,5.0,Colours
+4,40,3.0,20.0,Places
+4,41,3.0,7.0,Abstract concepts
+4,42,4.0,3.0,Colours
+4,43,3.0,20.0,Places
+4,44,3.0,6.0,Abstract concepts
+4,45,2.0,10.0,Abstract concepts
+4,46,3.0,19.0,Places
+4,47,3.0,6.0,Abstract concepts
+4,48,4.0,2.0,Colours
+4,49,3.0,20.0,Places
+4,50,2.0,8.0,Abstract concepts
+4,51,4.0,16.0,Places
+4,52,3.0,6.0,Abstract concepts
+4,53,4.0,20.0,Places
+4,54,3.0,9.0,Abstract concepts
+4,55,4.0,3.0,Colours
+4,56,3.0,17.0,Places
+4,57,2.0,7.0,Abstract concepts
+4,58,3.0,6.0,Abstract concepts
+4,59,3.0,5.0,Colours
+4,60,3.0,20.0,Places
+5,1,1.0,3.0,Colours
+5,2,1.0,3.0,Colours
+5,3,1.0,1.0,Colours
+5,4,1.0,2.0,Colours
+5,5,1.0,3.0,Colours
+5,6,1.0,3.0,Abstract concepts
+5,7,1.0,4.0,Abstract concepts
+5,8,1.0,4.0,Abstract concepts
+5,9,1.0,2.0,Abstract concepts
+5,10,1.0,4.0,Abstract concepts
+5,11,1.0,3.0,Subjects
+5,12,1.0,1.0,Subjects
+5,13,1.0,4.0,Subjects
+5,14,1.0,2.0,Subjects
+5,15,1.0,4.0,Subjects
+5,16,1.0,4.0,Places
+5,17,1.0,2.0,Places
+5,18,1.0,4.0,Places
+5,19,1.0,3.0,Places
+5,20,1.0,2.0,Places
+5,21,3.0,7.0,Abstract concepts
+5,22,2.0,11.0,Subjects
+5,23,2.0,12.0,Subjects
+5,24,2.0,15.0,Subjects
+5,25,2.0,13.0,Subjects
+5,26,2.0,4.0,Colours
+5,27,4.0,16.0,Places
+5,28,4.0,2.0,Colours
+5,29,3.0,5.0,Colours
+5,30,3.0,3.0,Colours
+5,31,2.0,4.0,Colours
+5,32,1.0,18.0,Places
+5,33,2.0,1.0,Colours
+5,34,1.0,5.0,Colours
+5,35,2.0,19.0,Places
+5,36,2.0,4.0,Colours
+5,37,3.0,19.0,Places
+5,38,4.0,18.0,Places
+5,39,2.0,16.0,Places
+5,40,3.0,3.0,Colours
+5,41,1.0,1.0,Colours
+5,42,2.0,19.0,Places
+5,43,3.0,20.0,Places
+5,44,3.0,6.0,Abstract concepts
+5,45,2.0,17.0,Places
+5,46,2.0,4.0,Colours
+5,47,3.0,6.0,Abstract concepts
+5,48,2.0,17.0,Places
+5,49,3.0,5.0,Colours
+5,50,3.0,3.0,Colours
+5,51,2.0,4.0,Colours
+5,52,1.0,18.0,Places
+5,53,2.0,10.0,Abstract concepts
+5,54,4.0,17.0,Places
+5,55,2.0,19.0,Places
+5,56,3.0,17.0,Places
+5,57,3.0,19.0,Places
+5,58,4.0,18.0,Places
+5,59,2.0,16.0,Places
+5,60,2.0,9.0,Abstract concepts
+6,1,1.0,3.0,Colours
+6,2,1.0,4.0,Colours
+6,3,1.0,3.0,Colours
+6,4,1.0,3.0,Colours
+6,5,1.0,3.0,Colours
+6,6,1.0,3.0,Abstract concepts
+6,7,1.0,4.0,Abstract concepts
+6,8,1.0,4.0,Abstract concepts
+6,9,1.0,4.0,Abstract concepts
+6,10,1.0,4.0,Abstract concepts
+6,11,1.0,3.0,Subjects
+6,12,1.0,3.0,Subjects
+6,13,1.0,4.0,Subjects
+6,14,1.0,3.0,Subjects
+6,15,1.0,4.0,Subjects
+6,16,1.0,4.0,Places
+6,17,1.0,2.0,Places
+6,18,1.0,3.0,Places
+6,19,1.0,3.0,Places
+6,20,1.0,3.0,Places
+6,21,3.0,7.0,Abstract concepts
+6,22,2.0,9.0,Abstract concepts
+6,23,2.0,2.0,Colours
+6,24,4.0,16.0,Places
+6,25,2.0,13.0,Subjects
+6,26,3.0,9.0,Abstract concepts
+6,27,4.0,16.0,Places
+6,28,2.0,7.0,Abstract concepts
+6,29,3.0,5.0,Colours
+6,30,3.0,18.0,Places
+6,31,4.0,16.0,Places
+6,32,4.0,2.0,Colours
+6,33,4.0,20.0,Places
+6,34,1.0,5.0,Colours
+6,35,2.0,8.0,Abstract concepts
+6,36,3.0,17.0,Places
+6,37,2.0,7.0,Abstract concepts
+6,38,1.0,2.0,Colours
+6,39,2.0,16.0,Places
+6,40,3.0,20.0,Places
+6,41,1.0,1.0,Colours
+6,42,4.0,3.0,Colours
+6,43,2.0,2.0,Colours
+6,44,4.0,16.0,Places
+6,45,2.0,17.0,Places
+6,46,2.0,14.0,Subjects
+6,47,4.0,16.0,Places
+6,48,2.0,17.0,Places
+6,49,3.0,5.0,Colours
+6,50,3.0,18.0,Places
+6,51,4.0,16.0,Places
+6,52,1.0,18.0,Places
+6,53,2.0,1.0,Colours
+6,54,1.0,5.0,Colours
+6,55,2.0,19.0,Places
+6,56,3.0,10.0,Abstract concepts
+6,57,3.0,1.0,Colours
+6,58,1.0,2.0,Colours
+6,59,2.0,16.0,Places
+6,60,2.0,9.0,Abstract concepts
+7,1,1.0,3.0,Colours
+7,2,1.0,4.0,Colours
+7,3,1.0,3.0,Colours
+7,4,1.0,2.0,Colours
+7,5,1.0,2.0,Colours
+7,6,1.0,1.0,Abstract concepts
+7,7,1.0,3.0,Abstract concepts
+7,8,1.0,4.0,Abstract concepts
+7,9,1.0,3.0,Abstract concepts
+7,10,1.0,3.0,Abstract concepts
+7,11,1.0,2.0,Subjects
+7,12,1.0,3.0,Subjects
+7,13,1.0,4.0,Subjects
+7,14,1.0,3.0,Subjects
+7,15,1.0,3.0,Subjects
+7,16,1.0,3.0,Places
+7,17,1.0,1.0,Places
+7,18,1.0,2.0,Places
+7,19,1.0,2.0,Places
+7,20,1.0,2.0,Places
+7,21,3.0,7.0,Abstract concepts
+7,22,2.0,9.0,Abstract concepts
+7,23,3.0,8.0,Abstract concepts
+7,24,4.0,16.0,Places
+7,25,2.0,13.0,Subjects
+7,26,3.0,9.0,Abstract concepts
+7,27,4.0,16.0,Places
+7,28,2.0,7.0,Abstract concepts
+7,29,3.0,5.0,Colours
+7,30,2.0,8.0,Abstract concepts
+7,31,2.0,7.0,Abstract concepts
+7,32,4.0,2.0,Colours
+7,33,2.0,13.0,Subjects
+7,34,1.0,5.0,Colours
+7,35,2.0,8.0,Abstract concepts
+7,36,3.0,17.0,Places
+7,37,3.0,19.0,Places
+7,38,1.0,2.0,Colours
+7,39,2.0,16.0,Places
+7,40,3.0,20.0,Places
+7,41,4.0,18.0,Places
+7,42,4.0,3.0,Colours
+7,43,3.0,20.0,Places
+7,44,4.0,16.0,Places
+7,45,2.0,17.0,Places
+7,46,3.0,19.0,Places
+7,47,4.0,16.0,Places
+7,48,2.0,7.0,Abstract concepts
+7,49,3.0,5.0,Colours
+7,50,2.0,8.0,Abstract concepts
+7,51,4.0,16.0,Places
+7,52,1.0,18.0,Places
+7,53,4.0,20.0,Places
+7,54,1.0,5.0,Colours
+7,55,2.0,19.0,Places
+7,56,3.0,17.0,Places
+7,57,3.0,19.0,Places
+7,58,1.0,2.0,Colours
+7,59,2.0,16.0,Places
+7,60,3.0,20.0,Places
+8,1,1.0,2.0,Colours
+8,2,1.0,4.0,Colours
+8,3,1.0,3.0,Colours
+8,4,1.0,1.0,Colours
+8,5,1.0,1.0,Colours
+8,6,1.0,2.0,Abstract concepts
+8,7,1.0,4.0,Abstract concepts
+8,8,1.0,4.0,Abstract concepts
+8,9,1.0,4.0,Abstract concepts
+8,10,1.0,3.0,Abstract concepts
+8,11,1.0,3.0,Subjects
+8,12,1.0,3.0,Subjects
+8,13,1.0,3.0,Subjects
+8,14,1.0,3.0,Subjects
+8,15,1.0,3.0,Subjects
+8,16,1.0,4.0,Places
+8,17,1.0,1.0,Places
+8,18,1.0,3.0,Places
+8,19,1.0,1.0,Places
+8,20,1.0,2.0,Places
+8,21,3.0,7.0,Abstract concepts
+8,22,2.0,9.0,Abstract concepts
+8,23,3.0,8.0,Abstract concepts
+8,24,2.0,15.0,Subjects
+8,25,2.0,13.0,Subjects
+8,26,3.0,9.0,Abstract concepts
+8,27,4.0,16.0,Places
+8,28,4.0,2.0,Colours
+8,29,3.0,5.0,Colours
+8,30,3.0,3.0,Colours
+8,31,4.0,16.0,Places
+8,32,4.0,2.0,Colours
+8,33,4.0,20.0,Places
+8,34,1.0,5.0,Colours
+8,35,2.0,8.0,Abstract concepts
+8,36,3.0,17.0,Places
+8,37,2.0,7.0,Abstract concepts
+8,38,1.0,2.0,Colours
+8,39,2.0,16.0,Places
+8,40,3.0,3.0,Colours
+8,41,1.0,1.0,Colours
+8,42,2.0,11.0,Subjects
+8,43,3.0,20.0,Places
+8,44,3.0,6.0,Abstract concepts
+8,45,4.0,5.0,Colours
+8,46,2.0,14.0,Subjects
+8,47,2.0,11.0,Subjects
+8,48,4.0,2.0,Colours
+8,49,3.0,20.0,Places
+8,50,3.0,18.0,Places
+8,51,4.0,16.0,Places
+8,52,4.0,2.0,Colours
+8,53,4.0,20.0,Places
+8,54,3.0,9.0,Abstract concepts
+8,55,4.0,3.0,Colours
+8,56,3.0,17.0,Places
+8,57,3.0,1.0,Colours
+8,58,1.0,2.0,Colours
+8,59,3.0,5.0,Colours
+8,60,3.0,3.0,Colours
+9,1,1.0,3.0,Colours
+9,2,1.0,4.0,Colours
+9,3,1.0,4.0,Colours
+9,4,1.0,2.0,Colours
+9,5,1.0,2.0,Colours
+9,6,1.0,1.0,Abstract concepts
+9,7,1.0,3.0,Abstract concepts
+9,8,1.0,4.0,Abstract concepts
+9,9,1.0,3.0,Abstract concepts
+9,10,1.0,3.0,Abstract concepts
+9,11,1.0,3.0,Subjects
+9,12,1.0,1.0,Subjects
+9,13,1.0,4.0,Subjects
+9,14,1.0,3.0,Subjects
+9,15,1.0,3.0,Subjects
+9,16,1.0,3.0,Places
+9,17,1.0,2.0,Places
+9,18,1.0,2.0,Places
+9,19,1.0,3.0,Places
+9,20,1.0,2.0,Places
+9,21,3.0,7.0,Abstract concepts
+9,22,4.0,3.0,Colours
+9,23,3.0,8.0,Abstract concepts
+9,24,4.0,16.0,Places
+9,25,2.0,13.0,Subjects
+9,26,3.0,9.0,Abstract concepts
+9,27,4.0,16.0,Places
+9,28,4.0,2.0,Colours
+9,29,3.0,20.0,Places
+9,30,3.0,3.0,Colours
+9,31,4.0,16.0,Places
+9,32,4.0,2.0,Colours
+9,33,2.0,13.0,Subjects
+9,34,3.0,9.0,Abstract concepts
+9,35,2.0,19.0,Places
+9,36,2.0,11.0,Subjects
+9,37,2.0,7.0,Abstract concepts
+9,38,1.0,2.0,Colours
+9,39,3.0,8.0,Abstract concepts
+9,40,3.0,3.0,Colours
+9,41,1.0,1.0,Colours
+9,42,4.0,3.0,Colours
+9,43,3.0,20.0,Places
+9,44,4.0,16.0,Places
+9,45,2.0,17.0,Places
+9,46,2.0,4.0,Colours
+9,47,4.0,16.0,Places
+9,48,4.0,2.0,Colours
+9,49,3.0,5.0,Colours
+9,50,3.0,3.0,Colours
+9,51,4.0,16.0,Places
+9,52,4.0,2.0,Colours
+9,53,4.0,20.0,Places
+9,54,1.0,5.0,Colours
+9,55,4.0,3.0,Colours
+9,56,2.0,11.0,Subjects
+9,57,2.0,13.0,Subjects
+9,58,1.0,2.0,Colours
+9,59,2.0,16.0,Places
+9,60,2.0,9.0,Abstract concepts
+10,1,1.0,4.0,Colours
+10,2,1.0,4.0,Colours
+10,3,1.0,3.0,Colours
+10,4,1.0,4.0,Colours
+10,5,1.0,4.0,Colours
+10,6,1.0,2.0,Abstract concepts
+10,7,1.0,4.0,Abstract concepts
+10,8,1.0,3.0,Abstract concepts
+10,9,1.0,3.0,Abstract concepts
+10,10,1.0,1.0,Abstract concepts
+10,11,1.0,4.0,Subjects
+10,12,1.0,2.0,Subjects
+10,13,1.0,4.0,Subjects
+10,14,1.0,4.0,Subjects
+10,15,1.0,3.0,Subjects
+10,16,1.0,4.0,Places
+10,17,1.0,3.0,Places
+10,18,1.0,2.0,Places
+10,19,1.0,4.0,Places
+10,20,1.0,4.0,Places
+10,21,1.0,1.0,Colours
+10,22,2.0,11.0,Subjects
+10,23,2.0,2.0,Colours
+10,24,3.0,6.0,Abstract concepts
+10,25,2.0,17.0,Places
+10,26,2.0,4.0,Colours
+10,27,4.0,16.0,Places
+10,28,2.0,12.0,Subjects
+10,29,3.0,5.0,Colours
+10,30,3.0,18.0,Places
+10,31,4.0,16.0,Places
+10,32,4.0,2.0,Colours
+10,33,4.0,20.0,Places
+10,34,1.0,5.0,Colours
+10,35,2.0,12.0,Subjects
+10,36,2.0,11.0,Subjects
+10,37,3.0,19.0,Places
+10,38,1.0,2.0,Colours
+10,39,2.0,12.0,Subjects
+10,40,3.0,3.0,Colours
+10,41,4.0,18.0,Places
+10,42,4.0,3.0,Colours
+10,43,3.0,20.0,Places
+10,44,4.0,16.0,Places
+10,45,2.0,17.0,Places
+10,46,3.0,19.0,Places
+10,47,4.0,16.0,Places
+10,48,4.0,2.0,Colours
+10,49,3.0,5.0,Colours
+10,50,3.0,3.0,Colours
+10,51,4.0,16.0,Places
+10,52,4.0,2.0,Colours
+10,53,4.0,20.0,Places
+10,54,1.0,5.0,Colours
+10,55,2.0,19.0,Places
+10,56,3.0,17.0,Places
+10,57,3.0,19.0,Places
+10,58,4.0,18.0,Places
+10,59,2.0,16.0,Places
+10,60,3.0,3.0,Colours
+11,1,1.0,3.0,Colours
+11,2,1.0,4.0,Colours
+11,3,1.0,1.0,Colours
+11,4,1.0,1.0,Colours
+11,5,1.0,1.0,Colours
+11,6,1.0,2.0,Abstract concepts
+11,7,1.0,3.0,Abstract concepts
+11,8,1.0,4.0,Abstract concepts
+11,9,1.0,3.0,Abstract concepts
+11,10,1.0,4.0,Abstract concepts
+11,11,1.0,4.0,Subjects
+11,12,1.0,3.0,Subjects
+11,13,1.0,4.0,Subjects
+11,14,1.0,2.0,Subjects
+11,15,1.0,3.0,Subjects
+11,16,1.0,4.0,Places
+11,17,1.0,3.0,Places
+11,18,1.0,3.0,Places
+11,19,1.0,3.0,Places
+11,20,1.0,2.0,Places
+11,21,3.0,7.0,Abstract concepts
+11,22,2.0,11.0,Subjects
+11,23,2.0,2.0,Colours
+11,24,4.0,16.0,Places
+11,25,2.0,13.0,Subjects
+11,26,3.0,19.0,Places
+11,27,4.0,16.0,Places
+11,28,4.0,2.0,Colours
+11,29,2.0,10.0,Abstract concepts
+11,30,2.0,13.0,Subjects
+11,31,4.0,16.0,Places
+11,32,4.0,2.0,Colours
+11,33,2.0,10.0,Abstract concepts
+11,34,4.0,17.0,Places
+11,35,2.0,8.0,Abstract concepts
+11,36,3.0,17.0,Places
+11,37,2.0,13.0,Subjects
+11,38,4.0,18.0,Places
+11,39,3.0,5.0,Colours
+11,40,2.0,9.0,Abstract concepts
+11,41,4.0,18.0,Places
+11,42,4.0,3.0,Colours
+11,43,2.0,12.0,Subjects
+11,44,4.0,16.0,Places
+11,45,4.0,5.0,Colours
+11,46,3.0,9.0,Abstract concepts
+11,47,4.0,16.0,Places
+11,48,4.0,2.0,Colours
+11,49,2.0,10.0,Abstract concepts
+11,50,3.0,18.0,Places
+11,51,4.0,16.0,Places
+11,52,4.0,2.0,Colours
+11,53,4.0,20.0,Places
+11,54,1.0,5.0,Colours
+11,55,4.0,3.0,Colours
+11,56,3.0,17.0,Places
+11,57,3.0,19.0,Places
+11,58,4.0,18.0,Places
+11,59,3.0,5.0,Colours
+11,60,3.0,20.0,Places
+12,1,1.0,2.0,Colours
+12,2,1.0,3.0,Colours
+12,3,1.0,1.0,Colours
+12,4,1.0,4.0,Colours
+12,5,1.0,2.0,Colours
+12,6,1.0,3.0,Abstract concepts
+12,7,1.0,4.0,Abstract concepts
+12,8,1.0,2.0,Abstract concepts
+12,9,,,Abstract concepts
+12,10,1.0,4.0,Abstract concepts
+12,11,1.0,2.0,Subjects
+12,12,1.0,3.0,Subjects
+12,13,1.0,4.0,Subjects
+12,14,1.0,1.0,Subjects
+12,15,1.0,1.0,Subjects
+12,16,1.0,3.0,Places
+12,17,1.0,4.0,Places
+12,18,1.0,4.0,Places
+12,19,1.0,2.0,Places
+12,20,1.0,2.0,Places
+12,21,3.0,7.0,Abstract concepts
+12,22,2.0,9.0,Abstract concepts
+12,23,3.0,8.0,Abstract concepts
+12,24,2.0,15.0,Subjects
+12,25,4.0,5.0,Colours
+12,26,3.0,19.0,Places
+12,27,4.0,16.0,Places
+12,28,2.0,7.0,Abstract concepts
+12,29,2.0,15.0,Subjects
+12,30,3.0,3.0,Colours
+12,31,4.0,16.0,Places
+12,32,4.0,2.0,Colours
+12,33,4.0,20.0,Places
+12,34,1.0,5.0,Colours
+12,35,4.0,3.0,Colours
+12,36,3.0,17.0,Places
+12,37,3.0,19.0,Places
+12,38,1.0,2.0,Colours
+12,39,2.0,16.0,Places
+12,40,3.0,3.0,Colours
+12,41,4.0,18.0,Places
+12,42,2.0,9.0,Abstract concepts
+12,43,3.0,8.0,Abstract concepts
+12,44,4.0,16.0,Places
+12,45,4.0,5.0,Colours
+12,46,3.0,9.0,Abstract concepts
+12,47,4.0,16.0,Places
+12,48,2.0,17.0,Places
+12,49,3.0,5.0,Colours
+12,50,3.0,18.0,Places
+12,51,4.0,16.0,Places
+12,52,4.0,2.0,Colours
+12,53,4.0,20.0,Places
+12,54,1.0,5.0,Colours
+12,55,4.0,3.0,Colours
+12,56,3.0,17.0,Places
+12,57,3.0,19.0,Places
+12,58,1.0,2.0,Colours
+12,59,2.0,16.0,Places
+12,60,3.0,3.0,Colours
+13,1,1.0,2.0,Colours
+13,2,1.0,3.0,Colours
+13,3,1.0,4.0,Colours
+13,4,1.0,2.0,Colours
+13,5,1.0,3.0,Colours
+13,6,1.0,1.0,Abstract concepts
+13,7,1.0,4.0,Abstract concepts
+13,8,1.0,4.0,Abstract concepts
+13,9,1.0,4.0,Abstract concepts
+13,10,1.0,3.0,Abstract concepts
+13,11,1.0,4.0,Subjects
+13,12,1.0,3.0,Subjects
+13,13,1.0,4.0,Subjects
+13,14,1.0,3.0,Subjects
+13,15,1.0,2.0,Subjects
+13,16,1.0,4.0,Places
+13,17,1.0,2.0,Places
+13,18,1.0,2.0,Places
+13,19,1.0,3.0,Places
+13,20,1.0,2.0,Places
+13,21,3.0,7.0,Abstract concepts
+13,22,2.0,11.0,Subjects
+13,23,2.0,12.0,Subjects
+13,24,4.0,16.0,Places
+13,25,2.0,13.0,Subjects
+13,26,3.0,19.0,Places
+13,27,2.0,11.0,Subjects
+13,28,2.0,7.0,Abstract concepts
+13,29,3.0,5.0,Colours
+13,30,2.0,8.0,Abstract concepts
+13,31,4.0,16.0,Places
+13,32,4.0,2.0,Colours
+13,33,2.0,1.0,Colours
+13,34,1.0,5.0,Colours
+13,35,2.0,19.0,Places
+13,36,3.0,17.0,Places
+13,37,2.0,7.0,Abstract concepts
+13,38,4.0,18.0,Places
+13,39,2.0,16.0,Places
+13,40,3.0,3.0,Colours
+13,41,4.0,18.0,Places
+13,42,2.0,9.0,Abstract concepts
+13,43,2.0,2.0,Colours
+13,44,4.0,16.0,Places
+13,45,2.0,13.0,Subjects
+13,46,3.0,9.0,Abstract concepts
+13,47,4.0,16.0,Places
+13,48,2.0,7.0,Abstract concepts
+13,49,3.0,5.0,Colours
+13,50,3.0,3.0,Colours
+13,51,4.0,16.0,Places
+13,52,1.0,18.0,Places
+13,53,4.0,20.0,Places
+13,54,1.0,5.0,Colours
+13,55,4.0,3.0,Colours
+13,56,3.0,17.0,Places
+13,57,2.0,13.0,Subjects
+13,58,4.0,18.0,Places
+13,59,2.0,16.0,Places
+13,60,3.0,3.0,Colours
+14,1,1.0,2.0,Colours
+14,2,1.0,4.0,Colours
+14,3,1.0,3.0,Colours
+14,4,1.0,1.0,Colours
+14,5,1.0,3.0,Colours
+14,6,1.0,1.0,Abstract concepts
+14,7,1.0,4.0,Abstract concepts
+14,8,1.0,4.0,Abstract concepts
+14,9,1.0,2.0,Abstract concepts
+14,10,1.0,4.0,Abstract concepts
+14,11,1.0,3.0,Subjects
+14,12,1.0,1.0,Subjects
+14,13,1.0,4.0,Subjects
+14,14,1.0,1.0,Subjects
+14,15,1.0,1.0,Subjects
+14,16,1.0,2.0,Places
+14,17,1.0,1.0,Places
+14,18,1.0,3.0,Places
+14,19,1.0,3.0,Places
+14,20,1.0,3.0,Places
+14,21,3.0,7.0,Abstract concepts
+14,22,4.0,3.0,Colours
+14,23,2.0,2.0,Colours
+14,24,4.0,16.0,Places
+14,25,2.0,13.0,Subjects
+14,26,3.0,9.0,Abstract concepts
+14,27,4.0,16.0,Places
+14,28,2.0,7.0,Abstract concepts
+14,29,3.0,5.0,Colours
+14,30,3.0,18.0,Places
+14,31,4.0,16.0,Places
+14,32,4.0,2.0,Colours
+14,33,4.0,20.0,Places
+14,34,1.0,5.0,Colours
+14,35,4.0,3.0,Colours
+14,36,3.0,17.0,Places
+14,37,2.0,7.0,Abstract concepts
+14,38,1.0,2.0,Colours
+14,39,2.0,16.0,Places
+14,40,3.0,3.0,Colours
+14,41,1.0,1.0,Colours
+14,42,2.0,19.0,Places
+14,43,3.0,8.0,Abstract concepts
+14,44,3.0,6.0,Abstract concepts
+14,45,2.0,17.0,Places
+14,46,3.0,9.0,Abstract concepts
+14,47,1.0,1.0,Colours
+14,48,2.0,17.0,Places
+14,49,3.0,5.0,Colours
+14,50,3.0,18.0,Places
+14,51,4.0,16.0,Places
+14,52,4.0,2.0,Colours
+14,53,4.0,20.0,Places
+14,54,4.0,17.0,Places
+14,55,4.0,3.0,Colours
+14,56,3.0,17.0,Places
+14,57,3.0,19.0,Places
+14,58,1.0,2.0,Colours
+14,59,2.0,16.0,Places
+14,60,3.0,20.0,Places
+15,1,1.0,3.0,Colours
+15,2,1.0,4.0,Colours
+15,3,1.0,4.0,Colours
+15,4,1.0,4.0,Colours
+15,5,1.0,4.0,Colours
+15,6,1.0,1.0,Abstract concepts
+15,7,1.0,4.0,Abstract concepts
+15,8,1.0,4.0,Abstract concepts
+15,9,1.0,4.0,Abstract concepts
+15,10,1.0,4.0,Abstract concepts
+15,11,1.0,3.0,Subjects
+15,12,1.0,4.0,Subjects
+15,13,1.0,4.0,Subjects
+15,14,1.0,4.0,Subjects
+15,15,1.0,3.0,Subjects
+15,16,1.0,4.0,Places
+15,17,1.0,1.0,Places
+15,18,1.0,3.0,Places
+15,19,1.0,4.0,Places
+15,20,1.0,2.0,Places
+15,21,4.0,18.0,Places
+15,22,2.0,9.0,Abstract concepts
+15,23,3.0,20.0,Places
+15,24,3.0,6.0,Abstract concepts
+15,25,2.0,17.0,Places
+15,26,2.0,4.0,Colours
+15,27,4.0,16.0,Places
+15,28,2.0,7.0,Abstract concepts
+15,29,3.0,5.0,Colours
+15,30,3.0,18.0,Places
+15,31,4.0,16.0,Places
+15,32,4.0,2.0,Colours
+15,33,2.0,1.0,Colours
+15,34,3.0,9.0,Abstract concepts
+15,35,2.0,8.0,Abstract concepts
+15,36,3.0,17.0,Places
+15,37,2.0,7.0,Abstract concepts
+15,38,1.0,2.0,Colours
+15,39,2.0,16.0,Places
+15,40,3.0,3.0,Colours
+15,41,4.0,18.0,Places
+15,42,4.0,3.0,Colours
+15,43,2.0,2.0,Colours
+15,44,4.0,16.0,Places
+15,45,4.0,5.0,Colours
+15,46,2.0,4.0,Colours
+15,47,4.0,16.0,Places
+15,48,2.0,7.0,Abstract concepts
+15,49,3.0,20.0,Places
+15,50,2.0,8.0,Abstract concepts
+15,51,4.0,16.0,Places
+15,52,4.0,2.0,Colours
+15,53,4.0,20.0,Places
+15,54,2.0,11.0,Subjects
+15,55,2.0,8.0,Abstract concepts
+15,56,3.0,17.0,Places
+15,57,2.0,7.0,Abstract concepts
+15,58,1.0,2.0,Colours
+15,59,2.0,16.0,Places
+15,60,3.0,3.0,Colours
+16,1,1.0,2.0,Colours
+16,2,1.0,4.0,Colours
+16,3,1.0,1.0,Colours
+16,4,1.0,3.0,Colours
+16,5,1.0,2.0,Colours
+16,6,1.0,3.0,Abstract concepts
+16,7,1.0,4.0,Abstract concepts
+16,8,1.0,4.0,Abstract concepts
+16,9,1.0,3.0,Abstract concepts
+16,10,1.0,3.0,Abstract concepts
+16,11,1.0,3.0,Subjects
+16,12,1.0,3.0,Subjects
+16,13,1.0,4.0,Subjects
+16,14,1.0,3.0,Subjects
+16,15,1.0,3.0,Subjects
+16,16,1.0,4.0,Places
+16,17,1.0,3.0,Places
+16,18,1.0,4.0,Places
+16,19,1.0,4.0,Places
+16,20,1.0,3.0,Places
+16,21,3.0,7.0,Abstract concepts
+16,22,2.0,19.0,Places
+16,23,2.0,2.0,Colours
+16,24,4.0,16.0,Places
+16,25,2.0,13.0,Subjects
+16,26,2.0,14.0,Subjects
+16,27,4.0,16.0,Places
+16,28,4.0,2.0,Colours
+16,29,2.0,15.0,Subjects
+16,30,2.0,8.0,Abstract concepts
+16,31,2.0,7.0,Abstract concepts
+16,32,4.0,2.0,Colours
+16,33,2.0,13.0,Subjects
+16,34,2.0,11.0,Subjects
+16,35,2.0,19.0,Places
+16,36,3.0,17.0,Places
+16,37,2.0,7.0,Abstract concepts
+16,38,1.0,2.0,Colours
+16,39,2.0,16.0,Places
+16,40,2.0,14.0,Subjects
+16,41,3.0,7.0,Abstract concepts
+16,42,2.0,19.0,Places
+16,43,2.0,2.0,Colours
+16,44,4.0,16.0,Places
+16,45,2.0,17.0,Places
+16,46,3.0,19.0,Places
+16,47,4.0,16.0,Places
+16,48,2.0,7.0,Abstract concepts
+16,49,3.0,20.0,Places
+16,50,2.0,13.0,Subjects
+16,51,2.0,7.0,Abstract concepts
+16,52,4.0,2.0,Colours
+16,53,2.0,13.0,Subjects
+16,54,4.0,17.0,Places
+16,55,2.0,19.0,Places
+16,56,3.0,17.0,Places
+16,57,2.0,7.0,Abstract concepts
+16,58,1.0,2.0,Colours
+16,59,3.0,8.0,Abstract concepts
+16,60,2.0,14.0,Subjects
+17,1,1.0,2.0,Colours
+17,2,1.0,3.0,Colours
+17,3,1.0,2.0,Colours
+17,4,1.0,3.0,Colours
+17,5,1.0,4.0,Colours
+17,6,1.0,2.0,Abstract concepts
+17,7,1.0,3.0,Abstract concepts
+17,8,1.0,3.0,Abstract concepts
+17,9,1.0,2.0,Abstract concepts
+17,10,1.0,4.0,Abstract concepts
+17,11,1.0,2.0,Subjects
+17,12,1.0,2.0,Subjects
+17,13,1.0,4.0,Subjects
+17,14,1.0,2.0,Subjects
+17,15,1.0,2.0,Subjects
+17,16,1.0,3.0,Places
+17,17,1.0,2.0,Places
+17,18,1.0,4.0,Places
+17,19,1.0,4.0,Places
+17,20,1.0,4.0,Places
+17,21,4.0,18.0,Places
+17,22,2.0,19.0,Places
+17,23,2.0,2.0,Colours
+17,24,2.0,15.0,Subjects
+17,25,2.0,13.0,Subjects
+17,26,2.0,14.0,Subjects
+17,27,4.0,16.0,Places
+17,28,2.0,7.0,Abstract concepts
+17,29,3.0,5.0,Colours
+17,30,3.0,18.0,Places
+17,31,4.0,16.0,Places
+17,32,1.0,18.0,Places
+17,33,4.0,20.0,Places
+17,34,1.0,5.0,Colours
+17,35,4.0,3.0,Colours
+17,36,3.0,17.0,Places
+17,37,3.0,19.0,Places
+17,38,1.0,2.0,Colours
+17,39,2.0,16.0,Places
+17,40,3.0,3.0,Colours
+17,41,4.0,18.0,Places
+17,42,2.0,11.0,Subjects
+17,43,3.0,8.0,Abstract concepts
+17,44,4.0,16.0,Places
+17,45,4.0,5.0,Colours
+17,46,3.0,19.0,Places
+17,47,3.0,6.0,Abstract concepts
+17,48,4.0,2.0,Colours
+17,49,3.0,5.0,Colours
+17,50,3.0,3.0,Colours
+17,51,4.0,16.0,Places
+17,52,4.0,2.0,Colours
+17,53,4.0,20.0,Places
+17,54,1.0,5.0,Colours
+17,55,2.0,19.0,Places
+17,56,3.0,17.0,Places
+17,57,2.0,7.0,Abstract concepts
+17,58,1.0,2.0,Colours
+17,59,2.0,16.0,Places
+17,60,3.0,3.0,Colours
+18,1,1.0,3.0,Colours
+18,2,1.0,4.0,Colours
+18,3,1.0,3.0,Colours
+18,4,1.0,2.0,Colours
+18,5,1.0,2.0,Colours
+18,6,1.0,1.0,Abstract concepts
+18,7,1.0,4.0,Abstract concepts
+18,8,1.0,4.0,Abstract concepts
+18,9,1.0,3.0,Abstract concepts
+18,10,1.0,4.0,Abstract concepts
+18,11,1.0,3.0,Subjects
+18,12,1.0,2.0,Subjects
+18,13,1.0,4.0,Subjects
+18,14,1.0,4.0,Subjects
+18,15,1.0,2.0,Subjects
+18,16,1.0,4.0,Places
+18,17,1.0,3.0,Places
+18,18,1.0,3.0,Places
+18,19,1.0,2.0,Places
+18,20,1.0,2.0,Places
+18,21,2.0,14.0,Subjects
+18,22,2.0,9.0,Abstract concepts
+18,23,2.0,2.0,Colours
+18,24,4.0,16.0,Places
+18,25,2.0,13.0,Subjects
+18,26,2.0,14.0,Subjects
+18,27,4.0,16.0,Places
+18,28,4.0,2.0,Colours
+18,29,3.0,5.0,Colours
+18,30,2.0,8.0,Abstract concepts
+18,31,4.0,16.0,Places
+18,32,4.0,2.0,Colours
+18,33,4.0,20.0,Places
+18,34,3.0,9.0,Abstract concepts
+18,35,4.0,3.0,Colours
+18,36,3.0,17.0,Places
+18,37,2.0,13.0,Subjects
+18,38,1.0,2.0,Colours
+18,39,2.0,16.0,Places
+18,40,3.0,20.0,Places
+18,41,4.0,18.0,Places
+18,42,4.0,3.0,Colours
+18,43,3.0,20.0,Places
+18,44,4.0,16.0,Places
+18,45,2.0,17.0,Places
+18,46,3.0,9.0,Abstract concepts
+18,47,4.0,16.0,Places
+18,48,4.0,2.0,Colours
+18,49,3.0,20.0,Places
+18,50,3.0,18.0,Places
+18,51,4.0,16.0,Places
+18,52,4.0,2.0,Colours
+18,53,4.0,20.0,Places
+18,54,1.0,5.0,Colours
+18,55,4.0,3.0,Colours
+18,56,3.0,17.0,Places
+18,57,3.0,19.0,Places
+18,58,1.0,2.0,Colours
+18,59,2.0,16.0,Places
+18,60,3.0,20.0,Places
+19,1,1.0,3.0,Colours
+19,2,1.0,4.0,Colours
+19,3,1.0,3.0,Colours
+19,4,1.0,2.0,Colours
+19,5,1.0,2.0,Colours
+19,6,1.0,2.0,Abstract concepts
+19,7,1.0,3.0,Abstract concepts
+19,8,1.0,4.0,Abstract concepts
+19,9,1.0,3.0,Abstract concepts
+19,10,1.0,3.0,Abstract concepts
+19,11,1.0,2.0,Subjects
+19,12,1.0,4.0,Subjects
+19,13,1.0,4.0,Subjects
+19,14,1.0,3.0,Subjects
+19,15,1.0,2.0,Subjects
+19,16,1.0,2.0,Places
+19,17,1.0,1.0,Places
+19,18,1.0,3.0,Places
+19,19,1.0,3.0,Places
+19,20,1.0,3.0,Places
+19,21,1.0,1.0,Colours
+19,22,2.0,11.0,Subjects
+19,23,3.0,8.0,Abstract concepts
+19,24,2.0,15.0,Subjects
+19,25,2.0,13.0,Subjects
+19,26,2.0,14.0,Subjects
+19,27,4.0,16.0,Places
+19,28,2.0,17.0,Places
+19,29,3.0,5.0,Colours
+19,30,3.0,3.0,Colours
+19,31,4.0,16.0,Places
+19,32,1.0,18.0,Places
+19,33,2.0,13.0,Subjects
+19,34,1.0,5.0,Colours
+19,35,4.0,3.0,Colours
+19,36,2.0,11.0,Subjects
+19,37,2.0,7.0,Abstract concepts
+19,38,2.0,15.0,Subjects
+19,39,2.0,16.0,Places
+19,40,3.0,3.0,Colours
+19,41,4.0,18.0,Places
+19,42,4.0,3.0,Colours
+19,43,2.0,12.0,Subjects
+19,44,4.0,16.0,Places
+19,45,4.0,5.0,Colours
+19,46,3.0,9.0,Abstract concepts
+19,47,4.0,16.0,Places
+19,48,2.0,17.0,Places
+19,49,3.0,5.0,Colours
+19,50,3.0,3.0,Colours
+19,51,4.0,16.0,Places
+19,52,4.0,2.0,Colours
+19,53,2.0,10.0,Abstract concepts
+19,54,1.0,5.0,Colours
+19,55,4.0,3.0,Colours
+19,56,3.0,17.0,Places
+19,57,2.0,13.0,Subjects
+19,58,1.0,2.0,Colours
+19,59,3.0,5.0,Colours
+19,60,3.0,3.0,Colours

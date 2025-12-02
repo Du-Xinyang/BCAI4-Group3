@@ -1,0 +1,161 @@
+question_id,item,item_id,category,category_id,available_score
+21,PURPLE,1,Colours,1,1
+21,HOPE,7,Abstract concepts,2,3
+21,HISTORY,14,Subjects,3,2
+21,CITY,18,Places,4,4
+22,GREEN,3,Colours,1,4
+22,VITALITY,9,Abstract concepts,2,2
+22,LITERATURE,11,Subjects,3,2
+22,MOUNTAIN,19,Places,4,2
+23,BLUE,2,Colours,1,2
+23,SAFETY,8,Abstract concepts,2,3
+23,PHYSICS,12,Subjects,3,2
+23,VILLAGE,20,Places,4,3
+24,RED,4,Colours,1,1
+24,RISK,6,Abstract concepts,2,3
+24,GEOGRAPHY,15,Subjects,3,2
+24,SEA,16,Places,4,4
+25,ORANGE,5,Colours,1,4
+25,POWER,10,Abstract concepts,2,2
+25,MUSIC,13,Subjects,3,2
+25,DESERT,17,Places,4,2
+26,RED,4,Colours,1,2
+26,VITALITY,9,Abstract concepts,2,3
+26,HISTORY,14,Subjects,3,2
+26,MOUNTAIN,19,Places,4,3
+27,PURPLE,1,Colours,1,1
+27,RISK,6,Abstract concepts,2,3
+27,LITERATURE,11,Subjects,3,2
+27,SEA,16,Places,4,4
+28,BLUE,2,Colours,1,4
+28,HOPE,7,Abstract concepts,2,2
+28,PHYSICS,12,Subjects,3,2
+28,DESERT,17,Places,4,2
+29,ORANGE,5,Colours,1,3
+29,POWER,10,Abstract concepts,2,2
+29,GEOGRAPHY,15,Subjects,3,2
+29,VILLAGE,20,Places,4,3
+30,GREEN,3,Colours,1,3
+30,SAFETY,8,Abstract concepts,2,2
+30,MUSIC,13,Subjects,3,2
+30,CITY,18,Places,4,3
+31,RED,4,Colours,1,2
+31,HOPE,7,Abstract concepts,2,2
+31,HISTORY,14,Subjects,3,2
+31,SEA,16,Places,4,4
+32,BLUE,2,Colours,1,4
+32,RISK,6,Abstract concepts,2,3
+32,GEOGRAPHY,15,Subjects,3,2
+32,CITY,18,Places,4,1
+33,PURPLE,1,Colours,1,2
+33,POWER,10,Abstract concepts,2,2
+33,MUSIC,13,Subjects,3,2
+33,VILLAGE,20,Places,4,4
+34,ORANGE,5,Colours,1,1
+34,VITALITY,9,Abstract concepts,2,3
+34,LITERATURE,11,Subjects,3,2
+34,DESERT,17,Places,4,4
+35,GREEN,3,Colours,1,4
+35,SAFETY,8,Abstract concepts,2,2
+35,PHYSICS,12,Subjects,3,2
+35,MOUNTAIN,19,Places,4,2
+36,RED,4,Colours,1,2
+36,POWER,10,Abstract concepts,2,3
+36,LITERATURE,11,Subjects,3,2
+36,DESERT,17,Places,4,3
+37,PURPLE,1,Colours,1,3
+37,HOPE,7,Abstract concepts,2,2
+37,MUSIC,13,Subjects,3,2
+37,MOUNTAIN,19,Places,4,3
+38,BLUE,2,Colours,1,1
+38,RISK,6,Abstract concepts,2,3
+38,GEOGRAPHY,15,Subjects,3,2
+38,CITY,18,Places,4,4
+39,ORANGE,5,Colours,1,3
+39,SAFETY,8,Abstract concepts,2,3
+39,PHYSICS,12,Subjects,3,2
+39,SEA,16,Places,4,2
+40,GREEN,3,Colours,1,3
+40,VITALITY,9,Abstract concepts,2,2
+40,HISTORY,14,Subjects,3,2
+40,VILLAGE,20,Places,4,3
+41,PURPLE,1,Colours,1,1
+41,HOPE,7,Abstract concepts,2,3
+41,HISTORY,14,Subjects,3,2
+41,CITY,18,Places,4,4
+42,GREEN,3,Colours,1,4
+42,VITALITY,9,Abstract concepts,2,2
+42,LITERATURE,11,Subjects,3,2
+42,MOUNTAIN,19,Places,4,2
+43,BLUE,2,Colours,1,2
+43,SAFETY,8,Abstract concepts,2,3
+43,PHYSICS,12,Subjects,3,2
+43,VILLAGE,20,Places,4,3
+44,RED,4,Colours,1,1
+44,RISK,6,Abstract concepts,2,3
+44,GEOGRAPHY,15,Subjects,3,2
+44,SEA,16,Places,4,4
+45,ORANGE,5,Colours,1,4
+45,POWER,10,Abstract concepts,2,2
+45,MUSIC,13,Subjects,3,2
+45,DESERT,17,Places,4,2
+46,RED,4,Colours,1,2
+46,VITALITY,9,Abstract concepts,2,3
+46,HISTORY,14,Subjects,3,2
+46,MOUNTAIN,19,Places,4,3
+47,PURPLE,1,Colours,1,1
+47,RISK,6,Abstract concepts,2,3
+47,LITERATURE,11,Subjects,3,2
+47,SEA,16,Places,4,4
+48,BLUE,2,Colours,1,4
+48,HOPE,7,Abstract concepts,2,2
+48,PHYSICS,12,Subjects,3,2
+48,DESERT,17,Places,4,2
+49,ORANGE,5,Colours,1,3
+49,POWER,10,Abstract concepts,2,2
+49,GEOGRAPHY,15,Subjects,3,2
+49,VILLAGE,20,Places,4,3
+50,GREEN,3,Colours,1,3
+50,SAFETY,8,Abstract concepts,2,2
+50,MUSIC,13,Subjects,3,2
+50,CITY,18,Places,4,3
+51,RED,4,Colours,1,2
+51,HOPE,7,Abstract concepts,2,2
+51,HISTORY,14,Subjects,3,2
+51,SEA,16,Places,4,4
+52,BLUE,2,Colours,1,4
+52,RISK,6,Abstract concepts,2,3
+52,GEOGRAPHY,15,Subjects,3,2
+52,CITY,18,Places,4,1
+53,PURPLE,1,Colours,1,2
+53,POWER,10,Abstract concepts,2,2
+53,MUSIC,13,Subjects,3,2
+53,VILLAGE,20,Places,4,4
+54,ORANGE,5,Colours,1,1
+54,VITALITY,9,Abstract concepts,2,3
+54,LITERATURE,11,Subjects,3,2
+54,DESERT,17,Places,4,4
+55,GREEN,3,Colours,1,4
+55,SAFETY,8,Abstract concepts,2,2
+55,PHYSICS,12,Subjects,3,2
+55,MOUNTAIN,19,Places,4,2
+56,RED,4,Colours,1,2
+56,POWER,10,Abstract concepts,2,3
+56,LITERATURE,11,Subjects,3,2
+56,DESERT,17,Places,4,3
+57,PURPLE,1,Colours,1,3
+57,HOPE,7,Abstract concepts,2,2
+57,MUSIC,13,Subjects,3,2
+57,MOUNTAIN,19,Places,4,3
+58,BLUE,2,Colours,1,1
+58,RISK,6,Abstract concepts,2,3
+58,GEOGRAPHY,15,Subjects,3,2
+58,CITY,18,Places,4,4
+59,ORANGE,5,Colours,1,3
+59,SAFETY,8,Abstract concepts,2,3
+59,PHYSICS,12,Subjects,3,2
+59,SEA,16,Places,4,2
+60,GREEN,3,Colours,1,3
+60,VITALITY,9,Abstract concepts,2,2
+60,HISTORY,14,Subjects,3,2
+60,VILLAGE,20,Places,4,3
